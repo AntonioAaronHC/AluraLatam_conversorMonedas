@@ -7,7 +7,7 @@ import java.net.http.HttpResponse;
 import java.util.Scanner;
 
 public class Main {
-    private static final String API_KEY = "d3359c44647e06a0f17d5346";
+    private static final String API_KEY = "api_key";
 
     public static void main(String[] args) {
         mostrarMenu();
